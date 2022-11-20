@@ -1,7 +1,7 @@
 # Fat-To-Fart
 A game we developed for GameJam with my team in 48 hours.
 
-<img src="https://github.com/tarikbyzt/Dress-Up-Rush/blob/main/DressRunner-main/Assets/Photos/dress1.jpg" width="150">
+<img src="https://github.com/tarikbyzt/Fat-To-Fart/blob/main/Fat-To-Fart/Photos/Fat-To-Fart.gif" width="250">
 
 
 
